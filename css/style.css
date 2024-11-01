@@ -1,0 +1,576 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+
+
+
+
+/*sign-in css....................................*/
+
+.signIn_page .txt-all-around {
+
+    padding: 15px 0 15px 5px;
+
+}
+
+.loginorseperatordiv
+{
+padding-top: 200px;
+font-size: 20pt;
+font-style: italic;
+}
+
+@media (max-width: 600px) {
+.loginorseperatordiv
+{
+padding-top: 20px;
+}
+}
+.signIn_page .btn.loginwhite {
+
+    background: #a5c232 none repeat scroll 0 0;
+
+    border: 2px solid #adcc35;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    padding: 10px 0;
+
+}
+
+.signIn_page{width: 400px; padding: 20px 20px 50px;margin: auto;}
+
+
+
+.hd-txt{font-size: 20pt; color: black;text-align: center;font-family: arial;}
+
+
+
+.inner-divv_block{background-color: #FFFFFF; border: 1px solid #c6c6c6;padding-top: 30px;}
+
+
+
+#taBle_1{width: 100%; margin-top: 20px;}
+
+
+
+.input-boxx input{width: 100%;font-family: arial;}
+
+
+
+.bottom-textt{ color: black;}
+
+
+
+.bottom-textt a{text-decoration: none;font-size: 25px;font-family: arial;}
+
+
+
+.bootom-line-text{font-size: 10pt;text-decoration: none;color:#000000;font-family: arial;}
+
+
+
+table#taBle_1 td {
+
+    padding: 20px;
+
+    width: 100%;
+
+}
+
+table#taBle_1 tr {
+
+    width: 100%;
+
+}
+
+.page-id-5 h1.entry-title {
+
+    margin-bottom: 0;
+
+}
+
+.bottom-textt h6 {
+
+    color: black;
+
+    margin-top: 0;
+
+	margin-bottom: 0;
+
+}
+
+.page-id-5 #masthead.site-header {
+
+    padding: 10px 50px;
+
+}
+
+
+
+
+
+/*create new account css.....................*/
+
+.createYr_act .btn.btn-xs.form-btn.font-12.signUp {
+
+    background: #a5c232 none repeat scroll 0 0;
+
+    border: 2px solid #a5c232;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    padding: 10px 0;
+
+	 margin-top: 15px;
+
+	 width: 100%;
+
+}
+
+.vergifybutton
+{
+background: #a5c232 none repeat scroll 0 0;
+
+    border: 2px solid #a5c232;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    padding: 10px 0;
+
+	 margin-top: 15px;
+
+	 width: 100%;
+}
+
+.createYr_act .txt-underline {
+
+    -moz-border-bottom-colors: none;
+
+    -moz-border-left-colors: none;
+
+    -moz-border-right-colors: none;
+
+    -moz-border-top-colors: none;
+
+    border-color: -moz-use-text-color -moz-use-text-color #c9c9c9;
+
+    border-image: none;
+
+    border-style: none none solid;
+
+    border-width: medium medium 2px;
+
+    outline: medium none;
+
+    padding: 10px;
+
+    transition: border 0.3s ease 0s;
+
+}
+
+.createYr_act .termsoF-text {
+
+    color: gray;
+
+    line-height: 35px;
+
+	font-family: arial;
+
+    font-size: 14px;
+
+}
+
+.createYr_act .termsoF-text a {
+
+    color: gray;
+
+    font-weight: bold;
+
+    text-decoration: none;
+
+}
+
+
+
+
+
+.createYr_act{width: 550px; padding: 0px 20px;margin: auto;}
+
+
+
+.createYr_act-txt{font-size: 20pt; color: #000000;text-align:center;font-family: arial;}
+
+
+
+.createYr_act-mid-block{text-align:center;}
+
+
+
+.createYr_acttbl_second{width: 100%;}
+
+
+
+.createYr_act_input-box .txt-underline.fst{width: 49%;}
+
+
+
+.sec{width: 48%;margin-left: 9px; float: right;}
+
+
+
+.createYr_act_input-box .txt-underline.third{width: 100%;}
+
+
+
+.createYr_act_input-box .txt-underline.frth{width: 100%;}
+
+
+
+.createYr_act_input-box .txt-underline.fth{width: 100%;}
+
+
+
+#SPANn{color:#FF6600;}
+
+
+
+.createYr_acttbl_second tr{width:100%;}
+
+
+
+.createYr_act_btm-block a{padding-top: 8px; margin-right: 10px; color: #FFFFFF;}
+
+
+
+.createYr_act_btm-block h6{ color: black;
+
+    font-family: arial;
+
+    font-size: 15px;
+
+    text-align: center;}
+
+
+
+.signUp{width: 100%;}
+
+
+
+.createYr_acttbl_second td {
+
+    padding: 20px;
+
+    width: 100%;
+
+}
+
+
+
+.page-id-6 #masthead.site-header {
+
+    padding: 10px 50px;
+
+}
+
+
+
+
+
+
+
+/*forgot-password css..............................*/
+
+
+
+
+
+.main-div h3.heading-text {
+
+    color: gray;
+
+    font-family: arial;
+
+    font-size: 45px;
+
+    font-weight: lighter;
+
+}
+
+
+
+.main-div span.para-text {
+
+    color: gray;
+
+    font-family: arial;
+
+    font-size: 17.5px;
+
+}
+
+.main-div .txt-underline {
+
+    -moz-border-bottom-colors: none;
+
+    -moz-border-left-colors: none;
+
+    -moz-border-right-colors: none;
+
+    -moz-border-top-colors: none;
+
+    border-color: -moz-use-text-color -moz-use-text-color #c9c9c9;
+
+    border-image: none;
+
+    border-style: none none solid;
+
+    border-width: medium medium 2px;
+
+    outline: medium none;
+
+    padding-left: 10px;
+
+    padding-right: 10px;
+
+    transition: border 0.3s ease 0s;
+
+}
+
+.main-div .forgotPswd_page label {
+
+    color: gray;
+
+    font-family: arial;
+
+    font-weight: bold;
+
+}
+
+
+
+/*.form-btn {
+
+    background: #adcc35 none repeat scroll 0 0;
+
+    border: 2px solid #adcc35;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    line-height: 20px;
+
+    padding: 8px 35px;
+
+}*/
+
+.main-div {
+
+    margin: auto;
+
+    width: 70%;
+
+}
+
+.main-div .btn.btn-xs.form-btn.font-12.sUB {
+
+    background: #a5c232 none repeat scroll 0 0;
+
+    border: 2px solid #a5c232;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    margin-top: 15px;
+
+    padding: 10px 30px;
+
+}
+
+.forgotPswd_page{width: 100%; background-color: rgb(255, 255, 255); padding: 20px; border: 1px solid rgb(198, 198, 198);float: left;}
+
+.main-div-blk{float: left; width: 100%;}
+
+.txt-underline.main-div-txt{font-size:14px;height:32px;width: 100%;}
+
+
+
+.page-id-7 #masthead.site-header {
+
+    padding: 10px 50px;
+
+}
+
+
+/******************************/
+
+
+.btn.btn-xs.form-btn.font-12.signUp {
+    background-color: gray;
+    border: medium none;
+    border-radius: 5px;
+    box-shadow: 0 5px #999;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    outline: medium none;
+    padding: 4px 25px;
+    text-align: center;
+    width: 220px !important; display: table; margin: 0 auto;
+}
+
+
+#wpbody #wpbody-content .update-nag {
+    margin: 0;
+}
+
+
+#wpbody > div#wpbody-content {
+    border-radius: 0px;
+    border: none;
+    box-shadow: 0 0 0px 0 inset;
+    margin-top: 30px;
+    
+    padding: 20px;
+    text-align: center;
+}
+
+#wpbody-content div form div.checkbox_div {
+    background: #ddd none repeat scroll 0 0;
+    border-radius: 2px;
+    box-shadow: 0 0 3px 0 #4a4a4a;
+    font-weight: bold;
+    margin: 7px auto;
+    padding: 10px;
+    width: 200px;
+}
+
+
+#wpbody #wpbody-content div form {
+    background: #eee none repeat scroll 0 0;
+    padding: 10px 0;
+}
+
+.btn.btn-xs.form-btn.font-12.signUp:active {
+  background-color: #7f7f7f;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.btn.btn-xs.form-btn.font-12.signUp:hover {background-color: #393939;}
+
+
+/****/
+
+
+
+#wpbody-content form .createYr_act_input-box > div {
+    max-width: 350px;
+    width: auto;
+}
+
+#wpbody-content form div.createYr_act_input-box {
+    margin: 0 auto;
+    max-width: 450px;
+    width: auto;
+	background: #ddd none repeat scroll 0 0;
+    border-radius: 2px;
+    box-shadow: 0 0 3px 0 #4a4a4a;
+    font-weight: bold;
+   
+    padding: 10px;
+}
+
+
+.fst {
+    float: left;
+    width: 48%;
+margin-bottom: 15px;
+}
+
+table.createYr_acttbl_second {
+    width: 100%;
+}
+
+
+div.createYr_act_input-box .btn.btn-xs.form-btn.font-12.signUp {
+    background: gray none repeat scroll 0 0;
+    border: medium none;
+}
+
+
+div.createYr_act {
+    margin: auto;
+    max-width: 550px;
+    padding: 0 20px; width:auto;
+}
+
+h3.createYr_act-txt {
+    font-size: 20px;
+}
+
+
+
+
+#wpbody div#wpbody-content {
+    max-width: 100% !important;
+}
+.createYr_act {
+    float: left;
+    margin: 0 !important;
+    max-width: 550px !important;
+}
+div.signIn_page {
+    float: left;
+    margin: 50px 0 0 !important;
+    width: 400px;
+}
+.about_shortcode {
+    text-align: left;
+    background: #fff;
+    padding: 1px 14px;
+    margin: 3px 0px;
+}
+iframe#vergesurveyframe {
+    min-height: 500px !important;
+}
+
+#wpbody-content {
+    border-radius: 0px;
+    border: none;
+    box-shadow: 0 0 0px 0 inset;
+    margin-top: 30px;
+    max-width: 520px;
+    padding: 20px;
+    text-align: center;
+}
+
+.vergifybutton, .btn 
+{
+border-radius: 40px;
+}
+
+#myvergifysurveytable tbody {
+        overflow-y: auto; max-height: 350px;
+    }
